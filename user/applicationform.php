@@ -19,30 +19,14 @@ if (empty($_SESSION['production']) OR empty($_SESSION['type'])) {
 	 ?>
 		<div class="right"><br>
 			<center>
-				<form action="applicationform.php" method="POST">
-				<select name="itemtype" class="form" required="required">
-					<option value="">Choose Item</option>
-					<option value="pc">PC</option>
-					<option value="ulc">USB to LAN Converter</option>
-					<option value="mnk">Mouse and Keyboard</option>
-					<option value="mon">Monitor</option>
-					<option value="dc">Display Converter</option>
-					<option value="vhc">VGA and HDMI Cable</option>
-					<option value="poc">Power Cable</option>
-					<option value="lc">LAN Cable</option>
-				</select><br><br>
-					<input type="submit" value="Next" class="btnlink" name="btn">
-			</form>
-				
-			<?php 
-			extract($_POST);
-			if (isset($btn) && !empty($itemtype))
-			{
-			require "includes/requestform.php";
-			formchoice();
-			}
-			?>
-			
+				<a href="pc.php"><button class="btnlink">PC</button></a><br><br>
+				<a href="monitor.php"><button class="btnlink">Monitor</button></a><br><br>
+				<a href="lancable.php"><button class="btnlink">LAN Cable</button></a><br><br>
+				<a href="mousenkeyboard.php"><button class="btnlink">Keyboard & Mouse</button></a><br><br>
+				<a href="displaycable.php"><button class="btnlink">Display Cable</button></a><br><br>
+				<a href="displayconverter.php"><button class="btnlink">Display Converter</button></a><br><br>
+				<a href="powercable.php"><button class="btnlink">Power Cable</button></a><br><br>
+				<a href="usblanc.php"><button class="btnlink">USB to LAN Converter</button></a><br><br>
 			</center>
 			
 		</div>

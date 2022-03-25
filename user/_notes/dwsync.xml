@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="settings.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132911183253930315" remote="132911183250000000" Dst="0" />
-<file name="searchmedicine.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132893653430368105" remote="132893653430000000" Dst="0" />
-<file name="search.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132893653430368105" remote="132893653430000000" Dst="0" />
-<file name="patients.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132893653430368105" remote="132893653430000000" Dst="0" />
-<file name="medicine.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132893653430368105" remote="132893653430000000" Dst="0" />
 <file name="index.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132911752240308554" remote="132911752240000000" Dst="0" />
-<file name="editmedicine.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132893653430348096" remote="132893653430000000" Dst="0" />
-<file name="deletemedicine.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132893653430348096" remote="132893653430000000" Dst="0" />
-<file name="applicationform.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132924756845225442" remote="132924756840000000" Dst="0" />
+<file name="applicationform.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132926118122752084" remote="132926118120000000" Dst="0" />
+<file name="pc.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132926200840993531" remote="132926200840000000" Dst="0" />
+<file name="usblanc.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132926120279883188" remote="132926120270000000" Dst="0" />
+<file name="powercable.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132924862135217270" remote="132924862130000000" Dst="0" />
+<file name="monitor.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132924864744070752" remote="132924864740000000" Dst="0" />
+<file name="lancable.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132924862342014912" remote="132924862340000000" Dst="0" />
+<file name="mousenkeyboard.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132924864153343097" remote="132924864150000000" Dst="0" />
+<file name="displaycable.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132924867548914019" remote="132924867540000000" Dst="0" />
+<file name="displayconverter.php" server="C:/xampp/htdocs/Echo_Inventory/" local="132924866279386807" remote="132924866270000000" Dst="0" />
 </dwsync>
